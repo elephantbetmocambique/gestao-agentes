@@ -29,6 +29,9 @@ const USERS = [
   // Adicione mais utilizadores abaixo:
   { username: "nilza.nhantumbo", password: "nnhantumbo", nome: "Nilza Nhantumbo", role: "assistente" },
   { username: "lurdes.cossa", password: "lcossa", nome: "Lurdes Cossa", role: "assistente" },
+  { username: "aleixo.fijamo", password: "afijamo", nome: "Aleixo Fijamo", role: "admin" },
+  { username: "pierre.arnaud", password: "arnaud", nome: "Pierre Alexandre Arnaud", role: "assistente" },
+  { username: "verlaine.katembula", password: "katembula", nome: "Verlaine Katembula", role: "assistente" },
 ];
 
 // ============================================================
