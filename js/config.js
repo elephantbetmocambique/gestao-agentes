@@ -32,6 +32,8 @@ const USERS = [
   { username: "aleixo.fijamo", password: "afijamo", nome: "Aleixo Fijamo", role: "admin" },
   { username: "pierre.arnaud", password: "arnaud", nome: "Pierre Alexandre Arnaud", role: "assistente" },
   { username: "verlaine.katembula", password: "katembula", nome: "Verlaine Katembula", role: "assistente" },
+  { username: "stelio.tovela", password: "stovela", nome: "Stelio Tovela", role: "assistente" },
+  { username: "pinto.junior", password: "juniorpinto", nome: "Pinto Junior", role: "assistente" },
 ];
 
 // ============================================================
